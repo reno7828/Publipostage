@@ -1,4 +1,4 @@
-#Outil de Publipostage Rapide
+Outil de Publipostage Rapide
 Ce script offre une solution de publipostage simple et efficace.
 
 Remarque : Ce script est conçu pour être très facile à utiliser.
