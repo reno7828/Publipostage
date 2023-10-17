@@ -1,4 +1,5 @@
-Outil de Publipostage Rapide
+##Outil de Publipostage Rapide
+
 Ce script offre une solution de publipostage simple et efficace.
 
 Remarque : Ce script est conçu pour être très facile à utiliser.
@@ -18,8 +19,10 @@ NOM (Les noms)
 POUR (Le pourcentage)
 En un seul clic, le script générera les lettres personnalisées pour chaque personne de votre tableau Excel.
 
-Exemple : Avec le fichier Excel, cela donnera : "Bonjour Monsieur Dupont, votre augmentation est de 5%."
+Exemple : Ce texte "Bonjour MAMO Nom, votre augmentation est de POUR." donnera : "Bonjour Monsieur Dupont, votre augmentation est de 5%."
 
 Lors de l'exécution du script, une première fenêtre s'ouvre pour sélectionner le fichier Excel, suivie d'une seconde fenêtre pour choisir le modèle Word.
 
 ![capture windowsPubli](https://github.com/reno7828/Publipostage/assets/72136982/472fc497-e5cd-48d2-af0b-d96505a590aa)
+
+Le premier mot clef à insérer est NOM ensuite peu importe il faut séparer par des virgules.
