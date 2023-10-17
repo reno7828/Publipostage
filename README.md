@@ -22,3 +22,4 @@ Exemple : Avec le fichier Excel, cela donnera : "Bonjour Monsieur Dupont, votre 
 
 Lors de l'exécution du script, une première fenêtre s'ouvre pour sélectionner le fichier Excel, suivie d'une seconde fenêtre pour choisir le modèle Word.
 
+![capture windowsPubli](https://github.com/reno7828/Publipostage/assets/72136982/472fc497-e5cd-48d2-af0b-d96505a590aa)
