@@ -22,6 +22,7 @@ Exemple : Ce texte "Bonjour MAMO Nom, votre augmentation est de POUR." donnera :
 
 Lors de l'exécution du script, une première fenêtre s'ouvre pour sélectionner le fichier Excel, suivie d'une seconde fenêtre pour choisir le modèle Word.
 
-![capture windowsPubli](https://github.com/reno7828/Publipostage/assets/72136982/472fc497-e5cd-48d2-af0b-d96505a590aa)
+![capture windowsPubli](https://github.com/reno7828/Publipostage/assets/72136982/472fc497-e5cd-48d2-af0b-d96505a590aa) ![excelExemple](https://github.com/reno7828/Publipostage/assets/72136982/1f7a2345-5b15-4d20-a26a-8cf8ec19a81d)
+
 
 Le premier mot clef à insérer est NOM ensuite peu importe il faut séparer par des virgules.
