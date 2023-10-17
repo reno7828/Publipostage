@@ -29,3 +29,5 @@ Exemple type de fichier excel :
 ![excel exemple](https://github.com/reno7828/Publipostage/assets/72136982/7f20268b-bf52-4b71-a252-f85a111bb151)
 
 Le premier mot clef à insérer est NOM ensuite peu importe il faut séparer par des virgules.
+
+Attention a ne pas créer de confusion comme NOM et PRENOM (choissisez plutot NOM et PREN celà evitera les problèmes car dans PRENOM il y a NOM)
